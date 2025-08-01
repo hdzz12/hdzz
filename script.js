@@ -1,0 +1,1 @@
+// This file is intended for JavaScript functionality. It can include event listeners, form validation, and any interactive features for the portfolio website.
